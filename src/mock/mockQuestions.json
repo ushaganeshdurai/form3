@@ -1,0 +1,15 @@
+{
+    "Technology": [
+      { "id": 1, "text": "What IDE do you prefer?" },
+      { "id": 2, "text": "How do you handle asynchronous operations?" }
+    ],
+    "Health": [
+      { "id": 1, "text": "Do you follow a specific diet plan?" },
+      { "id": 2, "text": "How often do you engage in physical activities?" }
+    ],
+    "Education": [
+      { "id": 1, "text": "What influenced your choice of field of study?" },
+      { "id": 2, "text": "Did you face any challenges while pursuing your education?" }
+    ]
+  }
+  
